@@ -2,4 +2,5 @@
 Graphical User Interface of Vibration Monitoring System for Trafo Power Substation. Built in Java.
 This interface will be communicated with Embedded System STMF4-Discovery board and it will show the visualization of the collected data.
 
+<img src="/docs/vmslogo.png"></img>
 <img src="/docs/gui.png"></img>
